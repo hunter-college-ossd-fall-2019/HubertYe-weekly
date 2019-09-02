@@ -52,7 +52,7 @@ url: "https://hunter-college-ossd-fall-2019.github.io/HubertYe-weekly"
 # where "your-username" is your GitHub username. It must begin with the "/" -
 # do not remove it.
 
-baseurl: "/waterpolymer-weekly"
+baseurl: "/HubertYe-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
