@@ -4,9 +4,15 @@ title: About
 permalink: /about/
 ---
 
-You should put some information about you here.
+Hello, 
+
+My name is Hubert Ye, and I am currently a student of Hunter College and I am writing this blog for my computer science class.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am currently the President of Hunted Hero Comics and I hope to make more resources to help my club members.
+
+As I am short on time at the moment, I will upload more at a later date.
+
+Thank you!
 
