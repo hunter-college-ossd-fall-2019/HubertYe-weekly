@@ -1,1 +1,1 @@
-This repository belongs to 'HubertYe' and contains [weekly blogs](https://hunter-college-ossd-fall-2019.github.io/HubertYe-weekly/) written by Hubert Ye for a course in Open Source software development.
+This repository belongs to HubertYe and contains [weekly blogs](https://hunter-college-ossd-fall-2019.github.io/HubertYe-weekly/) written by Hubert Ye for a course in Open Source software development.
